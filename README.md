@@ -2,7 +2,7 @@
 
 RecipeSnap is an intelligent cooking assistant that analyzes photos of your fridge ingredients and suggests delicious recipes using advanced AI models. Upload a photo of your fridge, get specific ingredient detection, and receive high-quality recipe suggestions - all powered by free local AI models.
 
-## ✨ Key Features
+## ✨ Key Feature
 
 - **📸 Smart Fridge Analysis**: Upload photos of your fridge or ingredients for AI analysis
 - **🔍 Intelligent Ingredient Detection**: Advanced AI identifies specific ingredients with fallback systems
@@ -12,6 +12,14 @@ RecipeSnap is an intelligent cooking assistant that analyzes photos of your frid
 - **🎯 Smart Recipe Matching**: Recipes ranked by ingredient availability and compatibility
 - **💰 100% FREE**: Uses completely free local AI models with no API costs
 - **🔄 Interactive Workflow**: Review and edit detected ingredients before generating recipes
+
+## ✨ ScreenShots
+<img width="1456" alt="Screenshot 2025-06-04 at 5 20 59 AM" src="https://github.com/user-attachments/assets/8002b50a-9b46-4595-9c1c-252ba6bd5ea1" />
+<img width="1464" alt="Screenshot 2025-06-04 at 5 20 33 AM" src="https://github.com/user-attachments/assets/c763df8c-0073-4bbe-9a3b-bd77da312590" />
+
+<img width="1469" alt="Screenshot 2025-06-04 at 5 20 41 AM" src="https://github.com/user-attachments/assets/bdcc5d3b-28db-471e-ade8-26455340726e" />
+<img width="1462" alt="Screenshot 2025-06-04 at 5 20 21 AM" src="https://github.com/user-attachments/assets/6301c189-e194-4e79-adb2-69595494dde6" />
+
 
 ## 🚀 Recent AI Improvements (v2.0)
 
